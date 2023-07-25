@@ -9,7 +9,7 @@ public class LastBill extends JFrame implements ActionListener
     JTextArea t1;
     JButton b1;
     Choice c1;
-    JPanel p1;
+    JPanel p1; ;
     LastBill(){
         setSize(500,900);
         setLayout(new BorderLayout());
